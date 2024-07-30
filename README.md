@@ -15,6 +15,7 @@ which sorting algorithm is more efficient based on operations performed.
 <i>The program in action, currently on Bubble Sort, after sorting the stack with Selection Sort</i>
 
 ![FirstPrompt](./images/numRingsQuestion.png)
+
 <i>The first prompt, asking for the number of rings</i>
 
 ![SecondPrompt](./images/randomQuestion.png)
