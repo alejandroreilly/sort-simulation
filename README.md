@@ -11,11 +11,11 @@ which sorting algorithm is more efficient based on operations performed.
 
 ## Examples
 
-[InAction](./images/inAction.png)
+![InAction](./images/inAction.png)
 <i>The program in action, currently on Bubble Sort, after sorting the stack with Selection Sort</i>
 
-[FirstPrompt](./images/numRingsQuestion.png)
+![FirstPrompt](./images/numRingsQuestion.png)
 <i>The first prompt, asking for the number of rings</i>
 
-[SecondPrompt](./images/randomQuestion.png)
+![SecondPrompt](./images/randomQuestion.png)
 <i>The second prompt, asking for the intial arrangement of rings</i>
